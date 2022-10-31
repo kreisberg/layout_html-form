@@ -1,5 +1,9 @@
 /* styles go here */
 
+.form-field {
+  display: block;
+}
+
 .form-field:not(:last-child) {
   margin-bottom: 10px;
 }
